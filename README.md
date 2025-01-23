@@ -7,6 +7,9 @@ A collection of user scripts designed to streamline your working workflows on th
 - Supports a quick command (`PRT` or `prt`) to trigger template insertion.
 - Template includes placeholders for PR description, changelog, reviewers, and a polite request for reviews.
 
+#### Demo
+https://github.com/user-attachments/assets/f501014d-56e8-4dd0-a825-8756e9659014
+
 #### How to use?
 After installation, Please check the following steps:
 1. Make sure you have enabled this extension
